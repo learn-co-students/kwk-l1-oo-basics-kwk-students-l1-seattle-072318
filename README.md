@@ -120,11 +120,11 @@ Let's add an initialize method to our book class, like this:
 
 class Book
 
+```
   def initialize(title)
   end
 
 end
-```
 
 We'll figure out what we need to do with `title` in just a minute, but for now,
 all we should remember is that the `initialize` method is a place that we'll
